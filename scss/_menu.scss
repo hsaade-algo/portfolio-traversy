@@ -45,7 +45,7 @@
     position: fixed;
     top: 0;
     width: 100%;
-    opacity: 0.9;
+    // opacity: 0.9;
     visibility: hidden;
 
     &.show {
@@ -67,6 +67,7 @@
         margin: 0;
         padding: 0;
         background: darken($primary-color, 5);
+        background: rgba(darken($primary-color, 5), 0.95);
         list-style: none;
         transform: translate3d(0, -100%, 0);
         @include easeOut;
@@ -79,7 +80,7 @@
 
     // Branding Side
     &-branding {
-        background: $primary-color;
+        background: rgba($primary-color, 0.9);
         transform: translate3d(0, 100%, 0);
         @include easeOut;
 
@@ -91,12 +92,12 @@
         .portrait {
             width: 250px;
             height: 250px;
-            background: url('../img/portrait.jpg');
+            background: $portrait-image;
             border-radius: 50%;
             border: solid 3px $secondary-color;
             // background: url('../img/HS-Portrait.jpg');
-            // background-size: auto;
-            // background-repeat: no-repeat;
+            background-size: cover;
+            background-repeat: no-repeat;
         }
 
     }
