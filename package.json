@@ -1,0 +1,22 @@
+{
+  "name": "portfolio_website",
+  "version": "1.0.0",
+  "description": "Responsive Portfolio Website",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hsaade-algo/portfolio-traversy.git"
+  },
+  "author": "Hussein Saade",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hsaade-algo/portfolio-traversy/issues"
+  },
+  "homepage": "https://github.com/hsaade-algo/portfolio-traversy#readme",
+  "dependencies": {
+    "node-sass": "^5.0.0"
+  }
+}
