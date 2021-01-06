@@ -14,6 +14,8 @@ Responsive Portfolio Website - Traversy
 [![portfolio-traversy](https://i.imgur.com/dkYR3DX.png)](https://hsaade-algo.github.io/portfolio-traversy/index.html)
 
 
+<br>
+<br>
 
 ## :anchor: Installation
 
@@ -46,6 +48,7 @@ npm run build
 
 <br>
 <br>
+
 ## :wrench: Features
 
 <!-- **Curriculum version**: `8.0.0` (see [CHANGELOG](CHANGELOG.md)) -->
