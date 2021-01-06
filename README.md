@@ -24,10 +24,12 @@ npm install
 npm run sass
 ```
 
-# To build the app for production, run the following command:
+To build the app for production, run the following command:
 ```
 npm run build
 ```
+<br>
+<br>
 
 ## Preparation For Deployment on Github Pages
 - Make sure your repository is Public
