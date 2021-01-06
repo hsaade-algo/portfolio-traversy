@@ -2,7 +2,7 @@
   "name": "portfolio_website",
   "version": "1.0.0",
   "description": "Responsive Portfolio Website",
-  "homepage": "https://hsaade-algo.github.io/portfolio-traversy",
+  "homepage": "https://github.com/hsaade-algo/portfolio-traversy",
   "main": "index.js",
   "scripts": {
     "sass": "node-sass -w scss/ -o dist/css/ --recursive",
