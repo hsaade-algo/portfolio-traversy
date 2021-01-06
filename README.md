@@ -33,7 +33,7 @@ npm run build
 <br>
 <br>
 
-## Preparation For Deployment on Github Pages
+## :rocket: Preparation For Deployment on Github Pages
 - Make sure your repository is Public
 - Make sure Github Pages is enabled on the repository (in Settings)
 - In package.json, make sure you have the deployment script like:
