@@ -27,6 +27,19 @@ npm run sass
 npm run build
 ```
 
+## Preparation For Deployment on Github Pages
+- Make sure your repository is Public
+- Make sure Github Pages is enabled on the repository (in Settings)
+- In package.json, make sure you have the deployment script like:
+```
+    "scripts": {
+        "sass": "node-sass -w scss/ -o dist/css/ --recursive",
+        "deploy": "gh-pages -d dist"
+    },
+```
+- Commit and Push changes
+- Deploy ``` npm run deploy ```
+
 
 ## :wrench: Features
 
