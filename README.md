@@ -22,8 +22,10 @@ git clone https://github.com/hsaade-algo/portfolio-traversy.git
 cd portfolio-traversy
 npm install
 npm run sass
+```
 
 # To build the app for production, run the following command:
+```
 npm run build
 ```
 
@@ -40,7 +42,8 @@ npm run build
 - Commit and Push changes
 - Deploy ``` npm run deploy ```
 
-
+<br>
+<br>
 ## :wrench: Features
 
 <!-- **Curriculum version**: `8.0.0` (see [CHANGELOG](CHANGELOG.md)) -->
