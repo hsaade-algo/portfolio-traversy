@@ -11,7 +11,7 @@ Responsive Portfolio Website - Traversy
 
 **A static Portfolio Website using Sass**. If you find any tips, please share them with me and let me know what can be improved.
 
-[![react-todo-app](https://i.imgur.com/ZraKNG0.png)](https://hsaade-react-todo.netlify.app/)
+[![portfolio-traversy](https://i.imgur.com/dkYR3DX.png)](https://hsaade-algo.github.io/portfolio-traversy/index.html)
 
 
 
